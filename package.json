@@ -1,0 +1,12 @@
+{
+  "name": "frontend-capstone",
+  "version": "1.0.0",
+  "description": "## Features - AI-assisted development workflow - Clean, conventional commit history - TypeScript and Tailwind CSS ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
